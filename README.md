@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 We build clean, scalable, and purposeful software.<br><br>Here you’ll find web projects, tools, experiments, and open-source ideas focused on solid architecture, performance, and real-world solutions.<br>Built with passion, logic, and constant iteration.<br><br>Think it. Build it. NEXUMBITE it.
 
 
